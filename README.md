@@ -1,4 +1,4 @@
-# MPI-mini-projects
+# MPI
 _exercise of  Parallel Systems and Programming course at UOI, SPRING TERM 2019-20
 (http://www.cs.uoi.gr/)
 
